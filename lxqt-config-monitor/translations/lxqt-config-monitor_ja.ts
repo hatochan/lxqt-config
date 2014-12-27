@@ -6,53 +6,53 @@
     <message>
         <location filename="../monitorsettingsdialog.cpp" line="55"/>
         <source>Laptop LCD Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>ラップトップLCDモニタ</translation>
     </message>
     <message>
         <location filename="../monitorsettingsdialog.cpp" line="57"/>
         <source>External VGA Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>外付けVGAモニタ</translation>
     </message>
     <message>
         <location filename="../monitorsettingsdialog.cpp" line="57"/>
         <source>VGA Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>VGAモニタ</translation>
     </message>
     <message>
         <location filename="../monitorsettingsdialog.cpp" line="59"/>
         <source>External DVI Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>外付けDVIモニタ</translation>
     </message>
     <message>
         <location filename="../monitorsettingsdialog.cpp" line="59"/>
         <source>DVI Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>DVIモニタ</translation>
     </message>
     <message>
         <location filename="../monitorsettingsdialog.cpp" line="61"/>
         <source>TV</source>
-        <translation type="unfinished"></translation>
+        <translation>TV</translation>
     </message>
     <message>
         <location filename="../monitorsettingsdialog.cpp" line="63"/>
         <source>Default Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>デフォルトモニタ</translation>
     </message>
     <message>
         <location filename="../monitorsettingsdialog.cpp" line="83"/>
         <location filename="../monitorsettingsdialog.cpp" line="315"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>自動</translation>
     </message>
     <message>
         <location filename="../monitorsettingsdialog.cpp" line="156"/>
         <source>OK?</source>
-        <translation type="unfinished"></translation>
+        <translation>OK?</translation>
     </message>
     <message>
         <location filename="../monitorsettingsdialog.cpp" line="156"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>はい</translation>
     </message>
     <message>
         <location filename="../monitorsettingsdialog.cpp" line="249"/>
