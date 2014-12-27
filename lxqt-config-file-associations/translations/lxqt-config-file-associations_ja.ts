@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru_RU">
+<TS version="2.1" language="ja_JP">
 <context>
     <name>ApplicationChooser</name>
     <message>
         <location filename="../applicationchooser.ui" line="14"/>
         <source>ApplicationChooser</source>
-        <translation>Выбор приложения</translation>
+        <translation>アプリケーションの選択</translation>
     </message>
     <message>
         <location filename="../applicationchooser.ui" line="46"/>
         <source>Pick an application for:</source>
-        <translation>Выбрать приложение для:</translation>
+        <translation>アプリケーションを選択:</translation>
     </message>
     <message>
         <location filename="../applicationchooser.ui" line="110"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../applicationchooser.ui" line="115"/>
         <source>Applications that handle JPEG</source>
-        <translation>Приложения, которые поддерживают JPEG</translation>
+        <translation>JPEGをサポートするアプリケーション</translation>
     </message>
     <message>
         <location filename="../applicationchooser.ui" line="124"/>
@@ -29,23 +29,23 @@
         <location filename="../applicationchooser.ui" line="139"/>
         <location filename="../applicationchooser.ui" line="144"/>
         <source>New Subitem</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいサブアイテム</translation>
     </message>
     <message>
         <location filename="../applicationchooser.ui" line="135"/>
         <location filename="../applicationchooser.cpp" line="85"/>
         <source>Other applications</source>
-        <translation>Другие приложения</translation>
+        <translation>その他のアプリケーション</translation>
     </message>
     <message>
         <location filename="../applicationchooser.cpp" line="86"/>
         <source>Applications that handle %1</source>
-        <translation>Приложение, которое поддерживает %1</translation>
+        <translation>%1 をサポートするアプリケーション</translation>
     </message>
     <message>
         <location filename="../applicationchooser.cpp" line="114"/>
         <source>No applications found</source>
-        <translation>Не найдены приложения</translation>
+        <translation>アプリケーションなし</translation>
     </message>
 </context>
 <context>
@@ -54,17 +54,17 @@
         <location filename="../mimetypeviewer.cpp" line="157"/>
         <location filename="../mimetypeviewer.cpp" line="208"/>
         <source>None</source>
-        <translation>Нет</translation>
+        <translation>なし</translation>
     </message>
     <message>
         <location filename="../mimetypeviewer.cpp" line="204"/>
         <source>&amp;Change...</source>
-        <translation>&amp;Изменить...</translation>
+        <translation>&amp;変更...</translation>
     </message>
     <message>
         <location filename="../mimetypeviewer.cpp" line="209"/>
         <source>&amp;Choose...</source>
-        <translation>&amp;Выбрать...</translation>
+        <translation>&amp;選択...</translation>
     </message>
 </context>
 <context>
@@ -72,52 +72,52 @@
     <message>
         <location filename="../mimetypeviewer.ui" line="20"/>
         <source>File Associations</source>
-        <translation>Ассоциация файлов</translation>
+        <translation>ファイルアプリケーション</translation>
     </message>
     <message>
         <location filename="../mimetypeviewer.ui" line="56"/>
         <source>Default application</source>
-        <translation>Приложение по умолчанию</translation>
+        <translation>デフォルトのアプリケーション</translation>
     </message>
     <message>
         <location filename="../mimetypeviewer.ui" line="68"/>
         <source>&amp;Choose...</source>
-        <translation>&amp;Выбрать...</translation>
+        <translation>&amp;選択...</translation>
     </message>
     <message>
         <location filename="../mimetypeviewer.ui" line="117"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>テキストラベル</translation>
     </message>
     <message>
         <location filename="../mimetypeviewer.ui" line="124"/>
         <source>None</source>
-        <translation>Нет</translation>
+        <translation>なし</translation>
     </message>
     <message>
         <location filename="../mimetypeviewer.ui" line="144"/>
         <source>Patterns</source>
-        <translation>Шаблоны</translation>
+        <translation>パターン</translation>
     </message>
     <message>
         <location filename="../mimetypeviewer.ui" line="156"/>
         <source>*.txt *.xml</source>
-        <translation></translation>
+        <translation>*.txt *.xml</translation>
     </message>
     <message>
         <location filename="../mimetypeviewer.ui" line="173"/>
         <source>MIME type</source>
-        <translation>MIME-тип</translation>
+        <translation>MIMEタイプ</translation>
     </message>
     <message>
         <location filename="../mimetypeviewer.ui" line="191"/>
         <source>Icon</source>
-        <translation>Значок</translation>
+        <translation>アイコン</translation>
     </message>
     <message>
         <location filename="../mimetypeviewer.ui" line="198"/>
         <source>Description</source>
-        <translation>Описание</translation>
+        <translation>説明</translation>
     </message>
 </context>
 </TS>
